@@ -1,5 +1,5 @@
 {
-  "unique-app-id": {
+  "WebOps": {
     "display_name": "WebOps",
     "version": "V1.0.0",
     "desc": "网站管理部署工具。",
@@ -13,7 +13,7 @@
       "version_number": "V1.0.0"
     }
   },
-  "unique-app-id": {
+  "Waves": {
     "display_name": "Waves",
     "version": "V1.0.0",
     "desc": "音乐播放器。",
