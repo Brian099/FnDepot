@@ -1,0 +1,30 @@
+{
+  "unique-app-id": {
+    "display_name": "WebOps",
+    "version": "V1.0.0",
+    "desc": "网站管理部署工具。",
+    "labels": "网络，工具",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
+    "install_type": "系统空间",
+    "size": "0.5M",
+    "history": {
+      "version_number": "V1.0.0"
+    }
+  },
+  "unique-app-id": {
+    "display_name": "Waves",
+    "version": "V1.0.0",
+    "desc": "音乐播放器。",
+    "labels": "音乐",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
+    "install_type": "系统空间",
+    "size": "0.5M",
+    "history": {
+      "version_number": "V1.0.0"
+    }
+  }
+}
