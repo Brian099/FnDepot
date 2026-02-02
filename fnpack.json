@@ -26,5 +26,19 @@
     "history": {
       "version_number": "V1.0.0"
     }
+  },
+    "Video Transfer": {
+    "display_name": "Video Transfer",
+    "version": "V1.0.0",
+    "desc": "视频压缩工具。",
+    "labels": "工具，视频",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
+    "install_type": "系统空间",
+    "size": "0.5",
+    "history": {
+      "version_number": "V1.0.0"
+    }
   }
 }
