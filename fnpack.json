@@ -27,7 +27,7 @@
       "version_number": "V1.0.0"
     }
   },
-    "Video Transfer": {
+    "video_transfer": {
     "display_name": "Video Transfer",
     "version": "V1.0.0",
     "desc": "视频压缩工具。",
