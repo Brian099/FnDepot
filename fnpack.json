@@ -40,5 +40,19 @@
     "history": {
       "version_number": "V1.0.0"
     }
+  },
+    "xlist-strm": {
+    "display_name": "xlist strm",
+    "version": "V1.0.0",
+    "desc": "alist/openlist strm提取工具。",
+    "labels": "工具，视频",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
+    "install_type": "系统空间",
+    "size": "0.5",
+    "history": {
+      "version_number": "V1.0.0"
+    }
   }
 }
