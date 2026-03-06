@@ -54,5 +54,19 @@
     "history": {
       "version_number": "V1.0.0"
     }
+  },
+    "flypic": {
+    "display_name": "flypic",
+    "version": "V1.2.2",
+    "desc": "图片浏览工具。",
+    "labels": "工具，图像",
+    "author": "FlyPic",
+    "author_url": "https://flypic.shikejk.com/",
+    "bug_report_url": "https://github.com/ZangXincz/FlyPic,
+    "install_type": "系统空间",
+    "size": "0.39",
+    "history": {
+      "version_number": "V1.0.0"
+    }
   }
 }
