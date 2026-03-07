@@ -27,7 +27,7 @@
       "version_number": "V1.0.0"
     }
   },
-  "video_transfer": {
+    "video_transfer": {
     "display_name": "Video Transfer",
     "version": "V1.0.0",
     "desc": "视频压缩工具。",
@@ -41,7 +41,7 @@
       "version_number": "V1.0.0"
     }
   },
-  "xlist-strm": {
+    "xlist-strm": {
     "display_name": "xlist strm",
     "version": "V1.0.0",
     "desc": "alist/openlist strm提取工具。",
@@ -55,42 +55,48 @@
       "version_number": "V1.0.0"
     }
   },
-  "flypic": {
+    "flypic": {
     "display_name": "flypic",
     "version": "V1.2.2",
     "desc": "图片浏览工具。",
     "labels": "工具，图像",
     "author": "FlyPic",
     "author_url": "https://flypic.shikejk.com/",
-    "bug_report_url": "https://github.com/ZangXincz/FlyPic",
+    "bug_report_url": "https://github.com/ZangXincz/FlyPic,
     "install_type": "系统空间",
     "size": "0.39",
     "history": {
       "version_number": "V1.0.0"
     }
   },
-  "emby": {
+    "emby": {
     "display_name": "Emby",
     "version": "V4.9.3.0",
-    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/v4.9.3.0/embyserver_4.9.3.0_amd64.fpk",
+	"download_url":"https://github.com/Brian099/emby-fnos/releases/download/v4.9.3.0/embyserver_4.9.3.0_amd64.fpk",
     "desc": "Emby影音管理服务器。",
     "labels": "工具，影音",
     "author": "emby",
     "author_url": "https://emby.media/",
-    "bug_report_url": "https://github.com/MediaBrowser/Emby",
+    "bug_report_url": "https://github.com/MediaBrowser/Emby,
     "install_type": "系统空间",
-    "size": "0.39"
+    "size": "0.39",
+    "history": {
+      "version_number": "V1.0.0"
+    }
   },
-  "emby_beta": {
+    "emby_beta": {
     "display_name": "EmbyBeta",
-    "version": "V4.9.3.0",
-    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.9.3.0/embyserver_4.9.3.0_pre_amd64.fpk",
+    "version": "V4.10.0.4",
+	"download_url":"https://github.com/Brian099/emby-fnos/releases/download/pre-4.10.0.4/embyserver_4.10.0.4_pre_amd64.fpk",
     "desc": "Emby影音管理服务器。",
     "labels": "工具，影音",
     "author": "emby",
     "author_url": "https://emby.media/",
-    "bug_report_url": "https://github.com/MediaBrowser/Emby",
+    "bug_report_url": "https://github.com/MediaBrowser/Emby,
     "install_type": "系统空间",
-    "size": "0.39"
+    "size": "0.39",
+    "history": {
+      "version_number": "V1.0.0"
+    }
   }
 }
