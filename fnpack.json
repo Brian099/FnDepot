@@ -69,7 +69,7 @@
       "version_number": "V1.0.0"
     }
   },
-  "emby": {
+  "Emby": {
     "display_name": "Emby",
     "version": "V4.9.3.0",
     "download_url": "https://github.com/Brian099/emby-fnos/releases/download/v4.9.3.0/embyserver_4.9.3.0_amd64.fpk",
@@ -81,7 +81,7 @@
     "install_type": "系统空间",
     "size": "0.39"
   },
-  "emby_beta": {
+  "EmbyBeta": {
     "display_name": "EmbyBeta",
     "version": "V4.9.3.0",
     "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.9.3.0/embyserver_4.9.3.0_pre_amd64.fpk",
