@@ -83,8 +83,8 @@
   },
   "EmbyBeta": {
     "display_name": "EmbyBeta",
-    "version": "V4.9.3.0",
-    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.9.3.0/embyserver_4.9.3.0_pre_amd64.fpk",
+    "version": "V4.10.0.4",
+    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.10.0.4/embyserver_4.10.0.4_pre_amd64.fpk",
     "desc": "Emby影音管理服务器。",
     "labels": "工具，影音",
     "author": "emby",
