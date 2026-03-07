@@ -8,10 +8,7 @@
     "author_url": "https://giraff.fun",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
     "install_type": "系统空间",
-    "size": "0.5",
-    "history": {
-      "version_number": "V1.0.0"
-    }
+    "size": "0.5"
   },
   "Waves": {
     "display_name": "Waves",
@@ -22,10 +19,7 @@
     "author_url": "https://giraff.fun",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
     "install_type": "系统空间",
-    "size": "0.5",
-    "history": {
-      "version_number": "V1.0.0"
-    }
+    "size": "0.5"
   },
   "video_transfer": {
     "display_name": "Video Transfer",
@@ -36,10 +30,7 @@
     "author_url": "https://giraff.fun",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
     "install_type": "系统空间",
-    "size": "0.5",
-    "history": {
-      "version_number": "V1.0.0"
-    }
+    "size": "0.5"
   },
   "xlist-strm": {
     "display_name": "xlist strm",
@@ -50,10 +41,7 @@
     "author_url": "https://giraff.fun",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages",
     "install_type": "系统空间",
-    "size": "0.5",
-    "history": {
-      "version_number": "V1.0.0"
-    }
+    "size": "0.5"
   },
   "flypic": {
     "display_name": "flypic",
@@ -64,10 +52,7 @@
     "author_url": "https://flypic.shikejk.com/",
     "bug_report_url": "https://github.com/ZangXincz/FlyPic",
     "install_type": "系统空间",
-    "size": "0.39",
-    "history": {
-      "version_number": "V1.0.0"
-    }
+    "size": "0.39"
   },
   "Emby": {
     "display_name": "Emby",
@@ -79,18 +64,18 @@
     "author_url": "https://emby.media/",
     "bug_report_url": "https://github.com/MediaBrowser/Emby",
     "install_type": "系统空间",
-    "size": "0.39"
+    "size": "262"
   },
   "EmbyBeta": {
     "display_name": "EmbyBeta",
-    "version": "V4.10.0.4",
-    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.10.0.4/embyserver_4.10.0.4_pre_amd64.fpk",
+    "version": "V4.9.3.0",
+    "download_url": "https://github.com/Brian099/emby-fnos/releases/download/pre-4.9.3.0/embyserver_4.9.3.0_pre_amd64.fpk",
     "desc": "Emby影音管理服务器。",
     "labels": "工具，影音",
     "author": "emby",
     "author_url": "https://emby.media/",
     "bug_report_url": "https://github.com/MediaBrowser/Emby",
     "install_type": "系统空间",
-    "size": "0.39"
+    "size": "338"
   }
 }
