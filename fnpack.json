@@ -1,5 +1,5 @@
 {
-  "WebOps": {
+  "webops": {
     "display_name": "WebOps",
     "version": "V1.0.0",
     "desc": "网站管理部署工具。",
@@ -12,7 +12,7 @@
     "install_type": "系统空间",
     "size": "0.5"
   },
-  "Waves": {
+  "waves": {
     "display_name": "Waves",
     "version": "V1.0.0",
     "desc": "音乐播放器。",
