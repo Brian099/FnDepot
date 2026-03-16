@@ -51,19 +51,6 @@
     "install_type": "系统空间",
     "size": "0.5"
   },
-  "flypic": {
-    "display_name": "flypic",
-    "version": "V1.2.0",
-    "desc": "图片浏览工具。",
-    "labels": "工具，图像",
-    "author": "FlyPic",
-    "author_url": "https://flypic.shikejk.com/",
-    "distributor": "Brian099",
-    "distributor_url": "https://giraff.fun",
-    "bug_report_url": "https://github.com/ZangXincz/FlyPic",
-    "install_type": "系统空间",
-    "size": "0.39"
-  },
   "Emby": {
     "display_name": "Emby",
     "version": "V4.9.3.0",
