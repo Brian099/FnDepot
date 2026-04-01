@@ -1,6 +1,6 @@
 {
-  "webops": {
-    "display_name": "WebOps",
+  "WebServer": {
+    "display_name": "WebServer",
     "version": "V1.0.3",
     "desc": "网站管理部署工具。",
     "labels": "网络，工具",
