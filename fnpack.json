@@ -79,8 +79,8 @@
     "install_type": "系统空间",
     "size": "338"
   },
-  "fn-appcentreThirdParty": {
-    "display_name": "fn-appcentreThirdParty",
+  "fn-appcenterThirdParty": {
+    "display_name": "fn-appcenterThirdParty",
     "version": "V1.0.51",
     "desc": "飞牛第三方应用商店。",
     "labels": "工具，影音",
