@@ -78,5 +78,83 @@
     "bug_report_url": "https://github.com/MediaBrowser/Emby",
     "install_type": "系统空间",
     "size": "338"
+  },
+  "fn-appcentreThirdParty": {
+    "display_name": "fn-appcentreThirdParty",
+    "version": "V1.0.51",
+    "desc": "飞牛第三方应用商店。",
+    "labels": "工具，影音",
+    "author": "Loak,Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "4.2"
+  },
+  "php8.2": {
+    "display_name": "php8.2",
+    "version": "V1.0.0",
+    "desc": "php8.2运行环境。",
+    "labels": "工具，网页",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "7.9"
+  },
+  "php8.3": {
+    "display_name": "php8.3",
+    "version": "V1.0.0",
+    "desc": "php8.3运行环境。",
+    "labels": "工具，网页",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "7.9"
+  },
+  "php8.4": {
+    "display_name": "php8.4",
+    "version": "V1.0.0",
+    "desc": "php8.4运行环境。",
+    "labels": "工具，网页",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
+  },
+  "NginxManager": {
+    "display_name": "NginxManager",
+    "version": "V1.0.0",
+    "desc": "Nginx运行环境。",
+    "labels": "工具，网页",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
+  },
+  "mariaDB10": {
+    "display_name": "mariaDB10",
+    "version": "V1.0.0",
+    "desc": "mariaDB10数据库。",
+    "labels": "工具，网页",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
   }
 }
