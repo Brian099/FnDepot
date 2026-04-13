@@ -81,7 +81,7 @@
   },
   "fn-appcenterThirdParty": {
     "display_name": "fn-appcenterThirdParty",
-    "version": "V1.0.51",
+    "version": "V1.0.65",
     "desc": "飞牛第三方应用商店。",
     "labels": "工具，影音",
     "author": "Loak,Giraff",
@@ -94,7 +94,7 @@
   },
   "php8.2": {
     "display_name": "php8.2",
-    "version": "V1.0.0",
+    "version": "V1.0.1",
     "desc": "php8.2运行环境。",
     "labels": "工具，网页",
     "author": "Giraff",
@@ -107,7 +107,7 @@
   },
   "php8.3": {
     "display_name": "php8.3",
-    "version": "V1.0.0",
+    "version": "V1.0.1",
     "desc": "php8.3运行环境。",
     "labels": "工具，网页",
     "author": "Giraff",
@@ -120,7 +120,7 @@
   },
   "php8.4": {
     "display_name": "php8.4",
-    "version": "V1.0.0",
+    "version": "V1.0.1",
     "desc": "php8.4运行环境。",
     "labels": "工具，网页",
     "author": "Giraff",
@@ -133,7 +133,7 @@
   },
   "NginxManager": {
     "display_name": "NginxManager",
-    "version": "V1.0.0",
+    "version": "V1.0.1",
     "desc": "Nginx运行环境。",
     "labels": "工具，网页",
     "author": "Giraff",
