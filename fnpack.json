@@ -1,7 +1,7 @@
 {
   "WebServer": {
     "display_name": "WebServer",
-    "version": "V1.0.20",
+    "version": "V1.0.27",
     "desc": "网站管理部署工具。",
     "labels": "网络，工具",
     "author": "Giraff",
@@ -81,7 +81,7 @@
   },
   "fn-appcenterThirdParty": {
     "display_name": "fn-appcenterThirdParty",
-    "version": "V1.0.67",
+    "version": "V1.0.68",
     "desc": "飞牛第三方应用商店。",
     "labels": "工具，影音",
     "author": "Loak,Giraff",
