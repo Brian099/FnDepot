@@ -85,7 +85,7 @@
   },
   "fn-appcenterThirdParty": {
     "display_name": "应用精选",
-    "version": "V1.0.78",
+    "version": "V1.0.82",
     "desc": "<p>应用精选，用于管理和安装第三方飞牛应用。</p><p>功能特性：</p><ul><li>浏览和搜索第三方应用</li><li>支持多源管理，类似群晖套件中心</li><li>自动发现本地源目录</li><li>应用下载和安装</li></ul>",
     "labels": "工具，影音",
     "author": "laok https://github.com",
@@ -94,7 +94,7 @@
     "distributor_url": "https://github.com",
     "bug_report_url": "https://giraff.fun",
     "install_type": "系统空间",
-    "size": "0.28",
+    "size": "7.43",
     "platform": "all"
   },
   "php8.2": {
