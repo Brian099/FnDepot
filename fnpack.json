@@ -141,7 +141,7 @@
   },
   "NginxManager": {
     "display_name": "Nginx 管理器",
-    "version": "V1.0.1",
+    "version": "V1.0.2",
     "desc": "Nginx 独立生命周期管理器。提供环境检测、一键安装、服务控制及实时日志。",
     "labels": "工具，网页",
     "author": "Giraff https://giraff.fun",
@@ -150,7 +150,7 @@
     "distributor_url": "https://giraff.fun",
     "bug_report_url": "https://giraff.fun",
     "install_type": "系统空间",
-    "size": "3.39",
+    "size": "6.08",
     "platform": "all"
   },
   "mariaDB10": {
