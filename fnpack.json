@@ -13,9 +13,9 @@
     "size": "7.64",
     "platform": "all"
   },
-  "waves": {
-    "display_name": "Waves",
-    "version": "V1.0.10",
+  "musicwave": {
+    "display_name": "musicwave",
+    "version": "V1.0.17",
     "desc": "专为飞牛OS设计的音乐播放器，支持多目录管理，支持托管系统音乐文件。",
     "labels": "音乐",
     "author": "Giraff https://giraff.fun",
@@ -153,14 +153,53 @@
     "size": "6.08",
     "platform": "all"
   },
-  "mariaDB10": {
-    "display_name": "mariaDB10",
+  "mariaDB12": {
+    "display_name": "mariaDB12",
     "version": "V1.0.0",
     "desc": "mariaDB10数据库。",
     "labels": "工具，网页",
     "author": "Giraff",
     "author_url": "https://giraff.fun",
     "distributor": "Brian099",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
+  },
+  "notepad": {
+    "display_name": "notepad",
+    "version": "V1.0.0",
+    "desc": "笔记本。",
+    "labels": "工具，网页",
+    "author": "laok",
+    "author_url": "https://giraff.fun",
+    "distributor": "laok",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
+  },
+  "ApacheManager": {
+    "display_name": "ApacheManager",
+    "version": "V1.0.0",
+    "desc": "apache。",
+    "labels": "工具，网页",
+    "author": "giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "giraff",
+    "distributor_url": "https://giraff.fun",
+    "bug_report_url": "https://giraff.fun",
+    "install_type": "系统空间",
+    "size": "8.1"
+  },
+  "phpMyAdmin": {
+    "display_name": "phpMyAdmin",
+    "version": "V1.0.0",
+    "desc": "数据库管理。",
+    "labels": "工具，网页",
+    "author": "giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "giraff",
     "distributor_url": "https://giraff.fun",
     "bug_report_url": "https://giraff.fun",
     "install_type": "系统空间",
