@@ -146,20 +146,7 @@
     "size": "6.08",
     "platform": "all",
     "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/NginxManager_v1.0.2.fpk"
-  },
-  "mariaDB12": {
-    "display_name": "mariaDB12",
-    "version": "V1.0.0",
-    "desc": "mariaDB10数据库。",
-    "labels": "工具，网页",
-    "author": "Giraff",
-    "author_url": "https://giraff.fun",
-    "distributor": "Brian099",
-    "distributor_url": "https://giraff.fun",
-    "bug_report_url": "https://giraff.fun",
-    "install_type": "系统空间",
-    "size": "8.1"
-  },
+  }
   "notepad": {
     "display_name": "便签记事本",
     "version": "V1.0.2",
