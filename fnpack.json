@@ -1,7 +1,7 @@
 {
   "WebServer": {
     "display_name": "WebServer",
-    "version": "V1.0.28",
+    "version": "1.0.28",
     "desc": "WebServer 是一款专为飞牛 NAS 系统 (fnOS) 设计的轻量级可视化 Web 环境配置与管理工具。它通过直观的 Web 界面，帮助用户轻松管理 Nginx、PHP、数据库以及网站站点，无需繁琐的命令行操作。",
     "labels": "网站，工具",
     "author": "Giraff",
@@ -12,11 +12,11 @@
     "install_type": "系统空间",
     "size": "7.64",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/WebServer_v1.0.28.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/WebServer_v1.0.28.fpk"
   },
   "musicwave": {
     "display_name": "MusicWave",
-    "version": "V1.0.17",
+    "version": "1.0.17",
     "desc": "专为飞牛OS设计的音乐播放器，支持多目录管理，支持托管系统音乐文件。",
     "labels": "音乐，工具",
     "author": "Giraff",
@@ -27,11 +27,11 @@
     "install_type": "系统空间",
     "size": "0.39",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/musicwave_v1.0.17.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/musicwave_v1.0.17.fpk"
   },
   "video_transfer": {
     "display_name": "Video Transfer",
-    "version": "V1.0.1",
+    "version": "1.0.1",
     "desc": "一个基于 FFmpeg 和 FastAPI 的高性能视频转码服务。支持多种格式互转，集成 NVIDIA CUDA、Intel QSV 和 VAAPI 硬件加速功能。提供直观的 Web 界面用于任务管理、进度监控和文件处理，并支持用户认证与权限管理。",
     "labels": "工具",
     "author": "fpk_docker",
@@ -42,11 +42,11 @@
     "install_type": "用户空间",
     "size": "0.38",
     "platform": "x86",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/video_transfer_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/video_transfer_v1.0.1.fpk"
   },
   "xlist-strm": {
     "display_name": "xlist-strm",
-    "version": "V1.0.0",
+    "version": "1.0.0",
     "desc": "XList Strm 是一个用于获取alist/openlist strm文件的容器。",
     "labels": "工具",
     "author": "Giraff",
@@ -57,7 +57,7 @@
     "install_type": "用户空间",
     "size": "0.02",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/xlist-strm_v1.0.0.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/xlist-strm_v1.0.0.fpk"
   },
   "Emby": {
     "display_name": "Emby",
@@ -89,7 +89,7 @@
   },
   "php8.2": {
     "display_name": "PHP 8.2 管理组件",
-    "version": "V1.0.1",
+    "version": "1.0.1",
     "desc": "为飞牛系统环境提供底层 PHP 8.2 与扩展插件的离线部署及一体化参数管理，搭载精美的界面供高级开发调整各项核心参数、上传限制和加速控制。",
     "labels": "网站，工具",
     "author": "PHP.net",
@@ -100,11 +100,11 @@
     "install_type": "用户空间",
     "size": "15.23",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/php8.2_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/php8.2_v1.0.1.fpk"
   },
   "php8.3": {
     "display_name": "PHP 8.3 管理组件",
-    "version": "V1.0.1",
+    "version": "1.0.1",
     "desc": "为飞牛系统环境提供底层 PHP 8.3 与扩展插件的离线部署及一体化参数管理，搭载精美的界面供高级开发调整各项核心参数、上传限制和加速控制。",
     "labels": "网站，工具",
     "author": "PHP.net",
@@ -115,11 +115,11 @@
     "install_type": "用户空间",
     "size": "16.89",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/php8.3_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/php8.3_v1.0.1.fpk"
   },
   "php8.4": {
     "display_name": "PHP 8.4 管理组件",
-    "version": "V1.0.1",
+    "version": "1.0.1",
     "desc": "为飞牛系统环境提供底层 PHP 8.4 与扩展插件的离线部署及一体化参数管理，搭载精美的界面供高级开发调整各项核心参数、上传限制和加速控制。",
     "labels": "网站，工具",
     "author": "PHP.net",
@@ -130,11 +130,11 @@
     "install_type": "用户空间",
     "size": "18.18",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/php8.4_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/php8.4_v1.0.1.fpk"
   },
   "NginxManager": {
     "display_name": "Nginx 管理器",
-    "version": "V1.0.2",
+    "version": "1.0.2",
     "desc": "Nginx 独立生命周期管理器。提供环境检测、一键安装、服务控制及实时日志。",
     "labels": "网站，工具",
     "author": "Giraff",
@@ -145,13 +145,13 @@
     "install_type": "系统空间",
     "size": "6.08",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/NginxManager_v1.0.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/NginxManager_v1.0.2.fpk"
   },
   "notepad": {
     "display_name": "便签记事本",
-    "version": "V1.0.2",
+    "version": "1.0.2",
     "desc": "<p>便签记事本是一款简约记事本应用。</p><ul><li>支持毛玻璃质感，美观大方</li><li>支持颜色分类，快速记录</li><li>支持按日期管理备忘事项</li></ul>",
-    "labels": "网站，工具",
+    "labels": "实用效率,生活",
     "author": "laok",
     "author_url": "https://gitee.com/laoknas/fn_fpk_packages/tree/master/fn-notepad",
     "distributor": "laok",
@@ -160,11 +160,11 @@
     "install_type": "用户空间",
     "size": "8.34",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/notepad_v1.0.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/notepad_v1.0.2.fpk"
   },
   "ApacheManager": {
     "display_name": "Apache 管理器",
-    "version": "V1.0.1",
+    "version": "1.0.5",
     "desc": "Apache 独立生命周期管理器。提供环境检测、一键安装、服务控制及实时日志。",
     "labels": "网站，工具",
     "author": "Giraff",
@@ -173,13 +173,13 @@
     "distributor_url": "https://giraff.fun",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
     "install_type": "系统空间",
-    "size": "4.65",
+    "size": "4.68",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/ApacheManager_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/ApacheManager_v1.0.5.fpk"
   },
   "phpMyAdmin": {
     "display_name": "phpMyAdmin",
-    "version": "V1.0.4",
+    "version": "1.0.4",
     "desc": "phpMyAdmin 是一款功能强大的 MySQL / MariaDB 数据库 Web 管理工具，提供直观的图形界面进行数据库管理、SQL 查询、数据导入导出等操作。安装后即可通过浏览器轻松管理您的 MariaDB 数据库。",
     "labels": "工具",
     "author": "sfconservancy.org",
@@ -190,26 +190,26 @@
     "install_type": "用户空间",
     "size": "70.64",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/phpMyAdmin_v1.0.4.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/phpMyAdmin_v1.0.4.fpk"
   },
   "MariaDB12": {
     "display_name": "MariaDB 12",
-    "version": "V12.2.2",
+    "version": "12.2.2",
     "desc": "MariaDB 数据库服务器 12.2 版本，专为飞牛 fnOS 优化的原生应用。支持自定义端口并运行于系统分区。",
     "labels": "工具",
     "install_type": "系统空间",
-    "size": "85.41",
+    "size": "85.42",
     "author": "MariaDB",
     "author_url": "https://mariadb.org/",
     "distributor": "Giraff",
     "distributor_url": "https://giraff.fun",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/MariaDB12_v12.2.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/MariaDB12_v12.2.2.fpk"
   },
   "appcenterThirdParty": {
     "display_name": "应用精选",
-    "version": "V1.0.102",
+    "version": "1.0.102",
     "desc": "<p>应用精选，用于管理和安装第三方飞牛应用。</p><p>功能特性：</p><ul><li>浏览和搜索第三方应用</li><li>支持多源管理，类似群晖套件中心</li><li>自动发现本地源目录</li><li>应用下载和安装</li></ul>",
     "labels": "工具",
     "install_type": "系统空间",
@@ -220,6 +220,36 @@
     "distributor_url": "https://github.com/Brian099/FnDepot",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.23-1219/appcenterThirdParty_v1.0.102.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/appcenterThirdParty_v1.0.102.fpk"
+  },
+  "fn-reverseproxy": {
+    "display_name": "反向代理服务器",
+    "version": "1.0.5",
+    "desc": "轻量级反向代理管理工具，专为飞牛 OS 设计。无需占用额外 TCP 端口，通过 Unix Socket 安全通信。&lt;br&gt;&lt;strong&gt;核心功能&lt;/strong&gt;&lt;br&gt;• 域名路由：按域名自动将请求分发到后端服务&lt;br&gt;• 多端口监听：同一应用支持 HTTP/HTTPS 多端口同时运行&lt;br&gt;• SSL/TLS 证书自动发现：从飞牛 OS 证书管理中按域名智能匹配&lt;br&gt;• 通配符证书支持（如 *.example.com）&lt;br&gt;• SNI 多域名同一端口复用&lt;br&gt;• 动态规则管理：Web 界面添加/编辑/删除规则，保存即生效&lt;br&gt;• 规则校验：名称唯一性、端口冲突检测，前后端双重校验&lt;br&gt;&lt;strong&gt;使用说明&lt;/strong&gt;&lt;br&gt;1. 安装后在桌面打开应用进入管理界面&lt;br&gt;2. 在「系统设置 → 证书管理」中预先添加您的域名 SSL 证书&lt;br&gt;3. 添加代理规则时填写来源（协议/端口/域名）和目标地址即可",
+    "labels": "实用效率,开发工具",
+    "install_type": "用户空间",
+    "size": "7.18",
+    "author": "laok",
+    "author_url": "https://laokhome.cn/",
+    "distributor": "laok",
+    "distributor_url": "https://gitee.com/laoknas/fn_fpk_packages/tree/master/fn-reverseproxy",
+    "platform": "all",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/fn-reverseproxy_v1.0.5.fpk"
+  },
+  "fn-scheduledtask": {
+    "display_name": "计划任务",
+    "version": "1.0.2",
+    "desc": "<p>计划任务管理应用，支持 Cron 表达式、间隔执行、指定时间执行以及开机/关机事件触发。</p><p>可创建 Python 函数任务和 Shell 脚本任务，满足自动化运维需求。</p>",
+    "labels": "开发工具",
+    "install_type": "用户空间",
+    "size": "0.12",
+    "author": "laok",
+    "author_url": "https://laokhome.cn/",
+    "distributor": "laok",
+    "distributor_url": "https://gitee.com/laoknas/fn_fpk_packages/tree/master/fn-scheduledtask",
+    "platform": "all",
+    "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.24-0953/fn-scheduledtask_v1.0.2.fpk"
   }
 }
