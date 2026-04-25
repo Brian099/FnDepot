@@ -12,11 +12,11 @@
     "install_type": "系统空间",
     "size": "7.64",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/WebServer_v1.0.28.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/WebServer_v1.0.28.fpk"
   },
   "musicwave": {
     "display_name": "MusicWave",
-    "version": "1.0.18",
+    "version": "1.0.23",
     "desc": "专为飞牛OS设计的音乐播放器，支持多目录管理，支持托管系统音乐文件。",
     "labels": "音乐，工具",
     "author": "Giraff",
@@ -27,7 +27,7 @@
     "install_type": "系统空间",
     "size": "0.39",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/musicwave_v1.0.18.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/musicwave_v1.0.23.fpk"
   },
   "video_transfer": {
     "display_name": "Video Transfer",
@@ -42,7 +42,7 @@
     "install_type": "用户空间",
     "size": "0.38",
     "platform": "x86",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/video_transfer_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/video_transfer_v1.0.1.fpk"
   },
   "xlist-strm": {
     "display_name": "xlist-strm",
@@ -57,7 +57,7 @@
     "install_type": "用户空间",
     "size": "0.02",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/xlist-strm_v1.0.0.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/xlist-strm_v1.0.0.fpk"
   },
   "Emby": {
     "display_name": "Emby",
@@ -100,7 +100,7 @@
     "install_type": "用户空间",
     "size": "15.23",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/php8.2_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/php8.2_v1.0.1.fpk"
   },
   "php8.3": {
     "display_name": "PHP 8.3 管理组件",
@@ -115,7 +115,7 @@
     "install_type": "用户空间",
     "size": "16.89",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/php8.3_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/php8.3_v1.0.1.fpk"
   },
   "php8.4": {
     "display_name": "PHP 8.4 管理组件",
@@ -130,7 +130,7 @@
     "install_type": "用户空间",
     "size": "18.18",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/php8.4_v1.0.1.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/php8.4_v1.0.1.fpk"
   },
   "NginxManager": {
     "display_name": "Nginx 管理器",
@@ -145,7 +145,7 @@
     "install_type": "系统空间",
     "size": "6.08",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/NginxManager_v1.0.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/NginxManager_v1.0.2.fpk"
   },
   "notepad": {
     "display_name": "便签记事本",
@@ -160,7 +160,7 @@
     "install_type": "用户空间",
     "size": "8.45",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/notepad_v1.0.4.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/notepad_v1.0.4.fpk"
   },
   "ApacheManager": {
     "display_name": "Apache 管理器",
@@ -175,7 +175,7 @@
     "install_type": "系统空间",
     "size": "7.88",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/ApacheManager_v1.0.6.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/ApacheManager_v1.0.6.fpk"
   },
   "phpMyAdmin": {
     "display_name": "phpMyAdmin",
@@ -190,7 +190,7 @@
     "install_type": "用户空间",
     "size": "70.64",
     "platform": "all",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/phpMyAdmin_v1.0.4.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/phpMyAdmin_v1.0.4.fpk"
   },
   "MariaDB12": {
     "display_name": "MariaDB 12",
@@ -198,14 +198,14 @@
     "desc": "MariaDB 数据库服务器 12.2 版本，专为飞牛 fnOS 优化的原生应用。支持自定义端口并运行于系统分区。",
     "labels": "工具",
     "install_type": "系统空间",
-    "size": "85.42",
+    "size": "85.41",
     "author": "MariaDB",
     "author_url": "https://mariadb.org/",
     "distributor": "Giraff",
     "distributor_url": "https://giraff.fun",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/MariaDB12_v12.2.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/MariaDB12_v12.2.2.fpk"
   },
   "appcenterThirdParty": {
     "display_name": "应用精选",
@@ -220,7 +220,7 @@
     "distributor_url": "https://github.com/Giraff/FnDepot",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/appcenterThirdParty_v1.0.107.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/appcenterThirdParty_v1.0.107.fpk"
   },
   "fn-reverseproxy": {
     "display_name": "反向代理服务器",
@@ -235,7 +235,7 @@
     "distributor_url": "https://gitee.com/laoknas/fn_fpk_packages/tree/master/fn-reverseproxy",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/fn-reverseproxy_v1.0.5.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/fn-reverseproxy_v1.0.5.fpk"
   },
   "fn-scheduledtask": {
     "display_name": "计划任务",
@@ -250,6 +250,6 @@
     "distributor_url": "https://gitee.com/laoknas/fn_fpk_packages/tree/master/fn-scheduledtask",
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
-    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1235/fn-scheduledtask_v1.0.2.fpk"
+    "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.04.25-1351/fn-scheduledtask_v1.0.2.fpk"
   }
 }
