@@ -60,7 +60,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "author_url": "String",
     "bug_report_url": "String",
     "isdocker": "String",
-    "install_type": "Enum",
+    "install_type": "root",
     "size": "String",
     "download_url": "String",
     "changelog": "String",
@@ -84,7 +84,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
 | author | String | - | (已废弃) 应用作者名称。建议使用 distributor 字段。 |
 | author_url | String | - | (已废弃) 作者网站。建议使用 distributor_url 字段。 |
 | bug_report_url | String | ✅ | 问题反馈链接/允许第三方链接。 |
-| install_type | String | ✅ | 安装目标路径类型。"系统空间" 或 "存储空间"。 |
+| install_type | String | ✅ | 安装目标路径类型。"root" 或 ""。 |
 | isdocker | String | - | true或false，不填或缺失默认false。 |
 | size | String | ✅ | 安装包大小，允许携带单位，不携带默认为 MB。 |
 | changelog | String | ✅ | 本次版本更新内容（通用更新内容）。 |
@@ -136,7 +136,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "labels": "工具,效率",
     "size": "15",
     "download_url": "https://example.com/example1.fpk",
-    "install_type": "系统空间",
+    "install_type": "root",
     "changelog": "全架构适配"
   },
   // 解析结果：
@@ -154,7 +154,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "labels": "工具,效率",
     "size": "15",
     "download_url": "https://example.com/example2.fpk",
-    "install_type": "系统空间",
+    "install_type": "root",
     "changelog": "全架构适配"
   },
   // 解析结果：
@@ -171,7 +171,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "labels": "工具,效率",
     "size": "20",
     "download_url": "",
-    "install_type": "系统空间",
+    "install_type": "root",
     "changelog": "通用更新内容",
     "arch_diff": {
       "arm": {
@@ -196,7 +196,7 @@ fnpack.json 是应用源的核心数据库，位于仓库根目录。它是一�
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/issues",
     "labels": "工具,效率",
     "size": "20",
-    "install_type": "系统空间",
+    "install_type": "root",
     "changelog": "通用更新内容",
     "arch_diff": {
       "x86": {
