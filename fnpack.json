@@ -311,5 +311,20 @@
     "platform": "all",
     "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
     "download_url": "https://github.com/Brian099/fn_fpk_packages/releases/download/2026.08.29-1631/mediaplayer_v1.1.10.fpk"
+  },
+  "music-toolkit": {
+    "display_name": "music-toolkit",
+    "version": "2.1.1",
+    "desc": "音乐辅助工具",
+    "labels": "工具",
+    "install_type": "",
+    "size": "66.3",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Giraff",
+    "distributor_url": "https://giraff.fun",
+    "platform": "x86",
+    "bug_report_url": "https://github.com/Brian099/MusicTool/issues",
+    "download_url": "https://raw.githubusercontent.com/Brian099/MusicTool/refs/heads/main/%E9%A3%9E%E7%89%9B%E5%BA%94%E7%94%A8/music-toolkit.fpkk"
   }
 }
