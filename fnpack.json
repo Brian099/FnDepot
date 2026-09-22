@@ -17,13 +17,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "WebServer/icons/ICON.png",
-      "preview_urls": [
-        "WebServer/previews/01.png",
-        "WebServer/previews/02.png",
-        "WebServer/previews/03.png",
-        "WebServer/previews/04.png"
-      ],
       "readme_url": "WebServer/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff,LaoK",
@@ -53,7 +46,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "musicwave/icons/ICON.PNG",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff",
       "maintainer_url": "https://giraff.fun",
@@ -81,12 +73,6 @@
         "系统工具",
         "影音娱乐"
       ],
-      "icon_url": "video_transfer/icons/ICON.PNG",
-      "preview_urls": [
-        "video_transfer/previews/01.png",
-        "video_transfer/previews/02.png",
-        "video_transfer/previews/03.png"
-      ],
       "readme_url": "video_transfer/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "fpk_docker",
@@ -113,16 +99,6 @@
       "categories": [
         "影音娱乐",
         "系统工具"
-      ],
-      "icon_url": "xlist-strm/icons/ICON.PNG",
-      "preview_urls": [
-        "xlist-strm/previews/01.png",
-        "xlist-strm/previews/02.png",
-        "xlist-strm/previews/03.png",
-        "xlist-strm/previews/04.png",
-        "xlist-strm/previews/05.png",
-        "xlist-strm/previews/06.png",
-        "xlist-strm/previews/07.png"
       ],
       "readme_url": "xlist-strm/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
@@ -152,7 +128,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "Emby/icons/ICON.PNG",
       "readme_url": "Emby/README.md",
       "bug_report_url": "https://github.com/MediaBrowser/Emby",
       "maintainer": "emby",
@@ -183,7 +158,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "EmbyBeta/icons/ICON.png",
       "readme_url": "EmbyBeta/README.md",
       "bug_report_url": "https://github.com/MediaBrowser/Emby",
       "maintainer": "emby",
@@ -214,7 +188,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "php8.2/icons/ICON.PNG",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "PHP.net",
       "maintainer_url": "https://php.ac.cn/",
@@ -244,7 +217,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "php8.3/icons/ICON.PNG",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "PHP.net",
       "maintainer_url": "https://php.ac.cn/",
@@ -274,7 +246,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "php8.4/icons/ICON.PNG",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "PHP.net",
       "maintainer_url": "https://php.ac.cn/",
@@ -304,7 +275,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "NginxManager/icons/ICON.PNG",
       "readme_url": "NginxManager/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff",
@@ -332,11 +302,6 @@
       "categories": [
         "生活服务",
         "系统工具"
-      ],
-      "icon_url": "notepad/icons/ICON.PNG",
-      "preview_urls": [
-        "notepad/previews/notepad01.png",
-        "notepad/previews/notepad02.png"
       ],
       "readme_url": "notepad/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
@@ -366,7 +331,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "ApacheManager/icons/ICON.PNG",
       "readme_url": "ApacheManager/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff",
@@ -395,7 +359,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "phpMyAdmin/icons/ICON.PNG",
       "readme_url": "phpMyAdmin/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "sfconservancy.org",
@@ -426,7 +389,6 @@
         "编程开发",
         "系统工具"
       ],
-      "icon_url": "MariaDB12/icons/ICON.PNG",
       "readme_url": "MariaDB12/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "MariaDB",
@@ -456,7 +418,6 @@
       "categories": [
         "系统工具"
       ],
-      "icon_url": "appcenterThirdParty/icons/ICON.PNG",
       "readme_url": "appcenterThirdParty/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff、laok、RROrg",
@@ -485,10 +446,6 @@
       "categories": [
         "编程开发",
         "系统工具"
-      ],
-      "icon_url": "fn-reverseproxy/icons/ICON.PNG",
-      "preview_urls": [
-        "fn-reverseproxy/previews/home.png"
       ],
       "readme_url": "fn-reverseproxy/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
@@ -519,7 +476,6 @@
         "系统工具",
         "编程开发"
       ],
-      "icon_url": "fn-scheduledtask/icons/ICON.PNG",
       "readme_url": "fn-scheduledtask/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "laok",
@@ -549,7 +505,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "mytvadmin/icons/ICON.PNG",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Giraff",
       "maintainer_url": "https://giraff.fun",
@@ -576,15 +531,6 @@
       "categories": [
         "生活服务",
         "系统工具"
-      ],
-      "icon_url": "imageadmin/icons/ICON.PNG",
-      "preview_urls": [
-        "imageadmin/previews/API服务.png",
-        "imageadmin/previews/ImageAdmin.png",
-        "imageadmin/previews/媒体上传.png",
-        "imageadmin/previews/媒体库.png",
-        "imageadmin/previews/设置.png",
-        "imageadmin/previews/资源管理.png"
       ],
       "readme_url": "imageadmin/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
@@ -615,10 +561,6 @@
         "生活服务",
         "系统工具"
       ],
-      "icon_url": "fnosnassign/icons/ICON.PNG",
-      "preview_urls": [
-        "fnosnassign/previews/1.png"
-      ],
       "readme_url": "fnosnassign/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "laok",
@@ -648,7 +590,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "mediaplayer/icons/ICON.PNG",
       "readme_url": "mediaplayer/README.md",
       "bug_report_url": "https://github.com/Brian099/fn_fpk_packages/issues",
       "maintainer": "Laok",
@@ -678,11 +619,6 @@
         "影音娱乐",
         "系统工具"
       ],
-      "icon_url": "music-toolkit/icons/ICON.PNG",
-      "preview_urls": [
-        "music-toolkit/previews/01.png",
-        "music-toolkit/previews/02.png"
-      ],
       "readme_url": "music-toolkit/README.md",
       "bug_report_url": "https://github.com/Brian099/MusicTool/issues",
       "maintainer": "Giraff",
@@ -701,7 +637,7 @@
         }
       }
     },
-    "纪念日": {
+    "anniversary-reminder": {
       "display_name": "纪念日",
       "desc": "精致优雅的重要节日、生日、结婚纪念日、周期日程倒计时与智能循环提醒应用，支持公历与农历双向计算，支持独立多用户隔离。",
       "platform": [
@@ -710,11 +646,6 @@
       "categories": [
         "生活服务",
         "系统工具"
-      ],
-      "icon_url": "anniversary-reminder/icons/ICON.png",
-      "preview_urls": [
-        "anniversary-reminder/previews/0.png",
-        "anniversary-reminder/previews/1.png"
       ],
       "readme_url": "anniversary-reminder/README.md",
       "bug_report_url": "https://github.com/Brian099/special_day/issues",
