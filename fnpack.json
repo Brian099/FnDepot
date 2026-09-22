@@ -325,6 +325,21 @@
     "distributor_url": "https://giraff.fun",
     "platform": "x86",
     "bug_report_url": "https://github.com/Brian099/MusicTool/issues",
-    "download_url": "https://raw.githubusercontent.com/Brian099/MusicTool/refs/heads/main/%E9%A3%9E%E7%89%9B%E5%BA%94%E7%94%A8/music-toolkit.fpkk"
+    "download_url": "https://raw.githubusercontent.com/Brian099/MusicTool/refs/heads/main/%E9%A3%9E%E7%89%9B%E5%BA%94%E7%94%A8/music-toolkit.fpk"
+  },
+  "anniversary-reminder": {
+    "display_name": "anniversary-reminder",
+    "version": "1.0.0",
+    "desc": "精致优雅的重要节日、生日、结婚纪念日、周期日程倒计时与智能循环提醒应用，支持公历与农历双向计算，支持独立多用户隔离。",
+    "labels": "工具",
+    "install_type": "",
+    "size": "30.8",
+    "author": "Giraff",
+    "author_url": "https://giraff.fun",
+    "distributor": "Giraff",
+    "distributor_url": "https://giraff.fun",
+    "platform": "all",
+    "bug_report_url": "https://github.com/Brian099/special_day/issues",
+    "download_url": "https://raw.githubusercontent.com/Brian099/special_day/refs/heads/main/anniversary-reminder.fpk"
   }
 }
